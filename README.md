@@ -1,2 +1,3 @@
-# wrad
-Wildfire Risk Assessment Device
+# Wildfire Risk Assessment Device
+*Abstract-* The state of New Jersey is facing one of its longest periods of low precipitation, above-average temperatures, and drought. Other states, such as California, which frequently experiences forest fires, have implemented systems to assist the state fire department in predicting when the risk of a fire is very high. We propose a device that integrates IoT sensors to collect environmental data—such as wind, temperature, humidity, and CO$_2$ levels—from forests and farmlands. Using machine learning (ML) algorithms, the device will predict wildfire risks with high accuracy. The device will be placed in strategic locations and collect data while in learning mode. Then, once the algorithms have enough data to work with, it will enter surveillance mode, in which it will alert the fire department of current and future risks. Our project will be completed over the timeline of one year, broken down into four key phases: research and design, development, testing and refinement, and finalization.
+*Index terms-* environmental, machine learning, microcontrollers, Cloud, data optimization
